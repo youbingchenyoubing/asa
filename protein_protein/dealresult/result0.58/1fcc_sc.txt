@@ -1,0 +1,5 @@
+1fccALAC31.pdb:3.5:3.5
+1fccALAC35.pdb:2.4:2.4
+1fccALAC40.pdb:0.3:0.3
+1fccALAC42.pdb:0.4:0.4
+1fccALAC43.pdb:3.8:3.8

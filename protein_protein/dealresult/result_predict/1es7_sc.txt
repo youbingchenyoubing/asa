@@ -1,0 +1,4 @@
+-1.172:N:1es7ALAA26.pdb
+2.387:Y:1es7ALAA31.pdb
+2.179:N:1es7ALAA49.pdb
+2.031:N:1es7ALAA50.pdb

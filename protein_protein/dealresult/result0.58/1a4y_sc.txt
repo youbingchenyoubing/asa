@@ -1,0 +1,10 @@
+1a4yALAA318.pdb:1.5:1.5
+1a4yALAA320.pdb:-0.3:-0.3
+1a4yALAA344.pdb:0.2:0.2
+1a4yALAA375.pdb:1.0:1.0
+1a4yALAA401.pdb:0.9:0.9
+1a4yALAA434.pdb:3.3:3.3
+1a4yALAA435.pdb:3.5:3.5
+1a4yALAA437.pdb:0.8:0.8
+1a4yALAA457.pdb:-0.2:-0.2
+1a4yALAA459.pdb:0.7:0.7

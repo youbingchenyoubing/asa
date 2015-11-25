@@ -1,0 +1,4 @@
+1vfbALAB52.pdb:1.23:1.23
+1vfbALAB99.pdb:0.47:0.47
+1vfbALAB100.pdb:3.1:3.1
+1vfbALAB101.pdb:4.0:4.0

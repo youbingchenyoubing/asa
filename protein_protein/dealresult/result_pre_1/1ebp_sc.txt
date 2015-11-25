@@ -1,0 +1,4 @@
+0.583:Y:1ebpALAA93.pdb
+1.259:Y:1ebpALAA150.pdb
+-0.448:N:1ebpALAA151.pdb
+-1.446:Y:1ebpALAA205.pdb

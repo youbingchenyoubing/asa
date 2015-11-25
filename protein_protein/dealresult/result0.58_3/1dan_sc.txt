@@ -1,0 +1,11 @@
+1danALAL62.pdb:0.0:0.0
+1danALAL64.pdb:0.8:0.8
+1danALAL69.pdb:1.9:1.9
+1danALAL71.pdb:1.2:1.2
+1danALAL73.pdb:0.0:0.0
+1danALAL77.pdb:0.0:0.0
+1danALAL79.pdb:1.2:1.2
+1danALAL88.pdb:0.0:0.0
+1danALAL92.pdb:0.0:0.0
+1danALAL93.pdb:0.0:0.0
+1danALAL94.pdb:0.0:0.0

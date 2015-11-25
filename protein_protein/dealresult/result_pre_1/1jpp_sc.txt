@@ -1,0 +1,7 @@
+-2.007:Y:1jppALAB345.pdb
+-3.296:N:1jppALAB354.pdb
+-2.841:Y:1jppALAB383.pdb
+-3.558:N:1jppALAB386.pdb
+-1.561:N:1jppALAB435.pdb
+-2.444:N:1jppALAB469.pdb
+-1.82:N:1jppALAB470.pdb

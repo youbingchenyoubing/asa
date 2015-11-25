@@ -1,0 +1,4 @@
+1vfbALAA50.pdb:0.4:0.4
+1vfbALAA53.pdb:-0.23:-0.23
+1vfbALAA92.pdb:1.71:1.71
+1vfbALAA93.pdb:0.11:0.11

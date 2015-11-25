@@ -1,0 +1,3 @@
+1cbwALAD19.pdb:0.1:0.1
+1cbwALAD34.pdb:0.0:0.0
+1cbwALAD39.pdb:0.2:0.2

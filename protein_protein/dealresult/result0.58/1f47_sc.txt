@@ -1,0 +1,5 @@
+1f47ALAA7.pdb:1.8:1.8
+1f47ALAA8.pdb:2.5:2.5
+1f47ALAA11.pdb:2.5:2.5
+1f47ALAA12.pdb:2.3:2.3
+1f47ALAA15.pdb:0.0:0.0

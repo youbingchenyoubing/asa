@@ -1,0 +1,4 @@
+3hfmALAL32.pdb:5.2:5.2
+3hfmALAL50.pdb:4.6:4.6
+3hfmALAL53.pdb:1.0:1.0
+3hfmALAL96.pdb:2.8:2.8

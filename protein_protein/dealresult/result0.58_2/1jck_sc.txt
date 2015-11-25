@@ -1,0 +1,7 @@
+1jckALAB26.pdb:1.7:1.7
+1jckALAB60.pdb:1.3:1.3
+1jckALAB90.pdb:2.5:2.5
+1jckALAB91.pdb:2.1:2.1
+1jckALAB103.pdb:0.4:0.4
+1jckALAB176.pdb:1.9:1.9
+1jckALAB210.pdb:2.5:2.5

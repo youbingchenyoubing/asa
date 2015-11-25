@@ -1,0 +1,14 @@
+1bxiALAA28.pdb:0.17:0.17
+1bxiALAA29.pdb:0.96:0.96
+1bxiALAA30.pdb:1.41:1.41
+1bxiALAA33.pdb:3.42:3.42
+1bxiALAA34.pdb:2.58:2.58
+1bxiALAA37.pdb:1.66:1.66
+1bxiALAA38.pdb:0.9:0.9
+1bxiALAA41.pdb:2.08:2.08
+1bxiALAA48.pdb:0.01:0.01
+1bxiALAA49.pdb:1.49:1.49
+1bxiALAA50.pdb:2.19:2.19
+1bxiALAA51.pdb:5.92:5.92
+1bxiALAA55.pdb:4.63:4.63
+1bxiALAA56.pdb:1.24:1.24

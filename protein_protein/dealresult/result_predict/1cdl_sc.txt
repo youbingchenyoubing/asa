@@ -1,0 +1,3 @@
+3.112:N:1cdlALAA12.pdb
+2.047:N:1cdlALAA19.pdb
+1.453:Y:1cdlALAA92.pdb

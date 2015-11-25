@@ -1,0 +1,9 @@
+1a4yALAB12.pdb:0.3:0.3
+1a4yALAB13.pdb:-0.3:-0.3
+1a4yALAB31.pdb:0.2:0.2
+1a4yALAB32.pdb:0.9:0.9
+1a4yALAB68.pdb:0.2:0.2
+1a4yALAB84.pdb:0.2:0.2
+1a4yALAB89.pdb:0.2:0.2
+1a4yALAB108.pdb:-0.3:-0.3
+1a4yALAB114.pdb:0.65:0.65

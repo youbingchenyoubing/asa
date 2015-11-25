@@ -1,0 +1,4 @@
+0.622:N:1ihbALAB101.pdb
+1.35:N:1ihbALAB133.pdb
+-0.512:N:1ihbALAB135.pdb
+0.255:N:1ihbALAB136.pdb

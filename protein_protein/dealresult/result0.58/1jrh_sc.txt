@@ -1,0 +1,5 @@
+1jrhALAL91.pdb:0.58:0.58
+1jrhALAL92.pdb:2.8:2.8
+1jrhALAL93.pdb:0.54:0.54
+1jrhALAL94.pdb:0.36:0.36
+1jrhALAL96.pdb:0.59:0.59

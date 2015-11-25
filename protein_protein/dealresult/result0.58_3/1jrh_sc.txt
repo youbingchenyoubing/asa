@@ -1,0 +1,9 @@
+1jrhALAI49.pdb:3.4:3.4
+1jrhALAI51.pdb:1.9:1.9
+1jrhALAI52.pdb:3.0:3.0
+1jrhALAI53.pdb:3.9:3.9
+1jrhALAI54.pdb:0.3:0.3
+1jrhALAI55.pdb:-0.4:-0.4
+1jrhALAI82.pdb:4.5:4.5
+1jrhALAI84.pdb:-0.3:-0.3
+1jrhALAI98.pdb:0.0:0.0

@@ -1,0 +1,15 @@
+1danALAT20.pdb:2.6:2.6
+1danALAT22.pdb:0.7:0.7
+1danALAT24.pdb:0.7:0.7
+1danALAT37.pdb:0.55:0.55
+1danALAT41.pdb:0.35:0.35
+1danALAT42.pdb:-0.1:-0.1
+1danALAT44.pdb:0.7:0.7
+1danALAT45.pdb:1.6:1.6
+1danALAT46.pdb:0.25:0.25
+1danALAT47.pdb:0.05:0.05
+1danALAT48.pdb:0.4:0.4
+1danALAT50.pdb:0.4:0.4
+1danALAT58.pdb:2.18:2.18
+1danALAT61.pdb:0.24:0.24
+1danALAT76.pdb:1.2:1.2

@@ -1,0 +1,8 @@
+1dvfALAB52.pdb:4.2:4.2
+1dvfALAB54.pdb:4.3:4.3
+1dvfALAB56.pdb:1.2:1.2
+1dvfALAB58.pdb:1.6:1.6
+1dvfALAB98.pdb:4.2:4.2
+1dvfALAB99.pdb:1.9:1.9
+1dvfALAB100.pdb:2.8:2.8
+1dvfALAB101.pdb:4.0:4.0
