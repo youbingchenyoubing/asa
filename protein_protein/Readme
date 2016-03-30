@@ -1,1 +1,3 @@
-python ddg paths.txt
+attention:you need copy resetta.release to /usr/bin and install pymol
+
+use:python ddg.py -path  paths.txt
